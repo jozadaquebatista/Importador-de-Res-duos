@@ -1,23 +1,19 @@
 # Waste Importer (PHP + Laravel)
 
 Done for a back-end developer test
-### Objetivo do produto a ser entregue
 
-Criar uma API RESTful que:
+### What's the Goal
+Create a restful API tha makes the following things:
 
 - Receberá uma planilha de residuos (segue em anexo) que deve ser processada em background (queue).
-
-- Ter um endpoint que informe se a planilha for processada com sucesso ou não.
-
-- Seja possível visualizar, atualizar e apagar os resíduos (só é possível criar novos produtos via planilha).
+- Receive a waste's spreadsheet, that should be processed asincronously in the background using a queue.
+- An endpoint that tells if the spreadsheet was processed with success or not
+- Be possible to do show, delete and update wastes. (only possible to include more wastes through spreadsheet)
 
 --------
 
-## Explicação de alguns termos
-
-**Wastes** = Resíduos
-
-**Transaction** = Planilha
+## Terms explanation
+**Transaction** = The Spreadsheet itself
 
 ## Enpoints da Aplicação
 
