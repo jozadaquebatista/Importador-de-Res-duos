@@ -6,7 +6,7 @@ Done for a back-end developer test
 Create a restful API tha makes the following things:
 
 - Receberá uma planilha de residuos (segue em anexo) que deve ser processada em background (queue).
-- Receive a waste's spreadsheet, that should be processed asincronously in the background using a queue.
+- Receive a waste's spreadsheet, that should be processed asynchronously in the background using a queue.
 - An endpoint that tells if the spreadsheet was processed with success or not
 - Be possible to do show, delete and update wastes. (only possible to include more wastes through spreadsheet)
 
