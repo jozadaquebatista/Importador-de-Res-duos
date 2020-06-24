@@ -1,6 +1,7 @@
-# Backend Developer - Plataforma Verde
+# Backend Developer
 
-## Importador de Resíduos
+## Waste Importer (PHP + Laravel)
+Done for a back-end developer test
 
 ### Objetivo do produto a ser entregue
 
@@ -12,7 +13,6 @@ Criar uma API RESTful que:
 
 - Seja possível visualizar, atualizar e apagar os resíduos (só é possível criar novos produtos via planilha).
  
-
 --
 
 ## (Em processo) Rotas da Aplicação
