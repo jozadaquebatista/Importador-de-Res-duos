@@ -1,6 +1,5 @@
-# Backend Developer
+# Waste Importer (PHP + Laravel)
 
-## Waste Importer (PHP + Laravel)
 Done for a back-end developer test
 ### Objetivo do produto a ser entregue
 
