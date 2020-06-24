@@ -1,2 +1,2 @@
-# Importador-de-Res-duos
+# Importador-de-Residuos
 Feito para um teste Back-End
